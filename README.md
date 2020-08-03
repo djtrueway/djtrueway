@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djtrueway&show_icons=true" alt="djtrueway" />
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saintaimepeterson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saintaimepeterson/" height="20" width="20" /></a>
   <a href="https://www.facebook.com/trueway166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/trueway166" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/djtrueway/" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/djtrueway/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/djtrueway/" height="20" width="20" /></a>
  <a href="https://twitter.com/djtrueway" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/djtrueway" height="20" width="20" /></a>
 
 </p>
