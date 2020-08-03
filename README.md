@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+<h1 align="center">Hi 👋, I'm Peterson Saint-aime </h1>
+<h3 align="center">A passionate IT engineer and Open Source contributor </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/djtrueway?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **peterson@sajesunlock.com**
 
 
 
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
  </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
- <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/saintaimepeterson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saintaimepeterson/" height="20" width="20" /></a>
+  <a href="https://www.facebook.com/trueway166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/trueway166" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/djtrueway/" height="20" width="20" /></a>
+ <a href="https://twitter.com/djtrueway" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/djtrueway" height="20" width="20" /></a>
 
 </p>
 
